@@ -12,7 +12,7 @@ This is a simple Node.js backend application built with Express.js, TypeScript, 
 
 1. Clone the repository:
 ```bash
-git clone nodejs_backend_developer 
+git clone https://github.com/ilgharr/nodejs_backend_developer
 cd nodejs_backend_developer 
 ```
 
